@@ -7,6 +7,8 @@
 - **Strato di rappresentazione**, ossia il livello di interazione con l'utente finale dell'azienda, con altri sistemi interni/esterni al SI (B2B o B2C), usa GUI basate su web.
 - **Logica applicativa**, che descrive le regole e procedure secondo cui vengono elaborati i dati acquisiti attraverso le GUI e/o estratte dalle basi di dati.
 - **Strato dei dati**, che fornisce strumenti per definire le basi di dati e per realizzare l'accesso agli stessi. Sono tipicamente DBMS (relazionali).
+
+## Modello tecnologico
 - **Architettura Hardware di elaborazione**, insieme di sistemi hardware per l'esecuzione delle elaborazioni di presentazione, logica applicativa e gestione dei dati, e per la gestione delle loro interazioni. Spesso si usa architettura client-server.
 - **Architettura di rete**, infrastruttura di rete utilizzata per la trasmissione delle informazioni. Si usano LAN/MAN/WAN, reti fisse o mobili, wireless, pubbliche o private.
 
