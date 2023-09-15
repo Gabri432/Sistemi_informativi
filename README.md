@@ -8,11 +8,11 @@ I capitoli, o le sezioni, indicati con "(da definire)" sono ancora incompleti e 
 
 ### Capitoli
 
-#### 1) Sistemi informativi (da definire)
-- Cosa sono?
-- Modello organizzativo
-- Modello funzionale
-- Modello informatico
+#### 1) Sistemi informativi
+- [Cosa sono?](https://github.com/Gabri432/Sistemi_informativi/blob/master/capitolo_1/cosa_sono_i_sistemi_informativi.md)
+- [Modello organizzativo](https://github.com/Gabri432/Sistemi_informativi/blob/master/capitolo_1/modello_organizzativo.md)
+- [Modello funzionale](https://github.com/Gabri432/Sistemi_informativi/blob/master/capitolo_1/modello_funzionale.md)
+- [Modello informatico](https://github.com/Gabri432/Sistemi_informativi/blob/master/capitolo_1/modello_informatico.md)
 
 #### 2) Architettura dei processi decisionali (da definire)
 
