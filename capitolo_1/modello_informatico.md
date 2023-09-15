@@ -45,3 +45,6 @@
 - **con un responsabile**, e altre persone con professionalità distinte.
 - **Responsabile SI**, che prevede anche un responsabile per lo studio e l'applicazione di nuove tecnologie.
 - **Direzione SI**, entità che svolge attività per il resto dell'azienza. Uno staff che si occupa anche di segreteria, pianificazione, definizione budget, controllo costi, privacy, sicurezza, documentazione sistema e standard aziendali.
+
+
+[Vai al README](https://github.com/Gabri432/Sistemi_informativi)
