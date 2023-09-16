@@ -14,7 +14,7 @@ I capitoli, o le sezioni, indicati con "(da definire)" sono ancora incompleti e 
 - [Modello funzionale](https://github.com/Gabri432/Sistemi_informativi/blob/master/capitolo_1/modello_funzionale.md)
 - [Modello informatico](https://github.com/Gabri432/Sistemi_informativi/blob/master/capitolo_1/modello_informatico.md)
 
-#### 2) Architettura dei processi decisionali (da definire)
+#### 2) Architettura dei processi gestionali (da definire)
 
 #### 3) Sistemi ERP (da definire)
 #### 4) Sistemi CRP (da definire)
