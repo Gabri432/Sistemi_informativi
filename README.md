@@ -15,8 +15,8 @@ I capitoli, o le sezioni, indicati con "(da definire)" sono ancora incompleti e 
 - [Modello informatico](https://github.com/Gabri432/Sistemi_informativi/blob/master/capitolo_1/modello_informatico.md)
 
 #### 2) Architettura dei processi gestionali 
-- [Flusso dei processi](https://github.com/Gabri432/Sistemi_informativi/blob/master/capitolo_2/flusso_dei_processi.md)
 - [Processi gestionali](https://github.com/Gabri432/Sistemi_informativi/blob/master/capitolo_2/processi_gestionali.md)
+- [Flusso dei processi](https://github.com/Gabri432/Sistemi_informativi/blob/master/capitolo_2/flusso_dei_processi.md)
 - [Sistemi operazionali](https://github.com/Gabri432/Sistemi_informativi/blob/master/capitolo_2/sistemi_operazionali.md)
 - [Business Intelligence](https://github.com/Gabri432/Sistemi_informativi/blob/master/capitolo_2/business_intelligence.md)
 
