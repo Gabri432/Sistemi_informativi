@@ -20,11 +20,9 @@ I capitoli, o le sezioni, indicati con "(da definire)" sono ancora incompleti e 
 - [Sistemi operazionali](https://github.com/Gabri432/Sistemi_informativi/blob/master/capitolo_2/sistemi_operazionali.md)
 - [Business Intelligence](https://github.com/Gabri432/Sistemi_informativi/blob/master/capitolo_2/business_intelligence.md)
 
-#### 3) Sistemi ERP (da definire)
-#### 4) Sistemi CRP (da definire)
-#### 5) Business Intelligence (da definire)
-#### 6) Data Warehouse (da definire)
-#### 7) Big data e Data Lakes (da definire)
+#### 3) Data Warehouse (da definire)
+#### 4) Sistemi ERP e CRM (da definire)
+#### 5) Big data e Data Lakes (da definire)
 
 ## Fonti
 - Titolo: `Sistemi informativi d'impresa`.
