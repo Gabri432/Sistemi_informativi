@@ -26,13 +26,15 @@ I capitoli, o le sezioni, indicati con "(da definire)" sono ancora incompleti e 
 - [Modello Multidimensionale](https://github.com/Gabri432/Sistemi_informativi/blob/master/capitolo_3/modell_multidimensionale.md)
 - [Data Mining](https://github.com/Gabri432/Sistemi_informativi/blob/master/capitolo_3/data_mining.md)
 
-#### 3.b) Progettazione Data Warehouse (da definire)
+#### 3.b) Progettazione Data Warehouse
 - [Approccio top-down e bottom-up](https://github.com/Gabri432/Sistemi_informativi/blob/master/capitolo_3b/approccio_top_down_bottom_up.md)
 - [Progettazione DM/DW](https://github.com/Gabri432/Sistemi_informativi/blob/master/capitolo_3b/progettazione_dm_dw.md)
 - [Conflitti](https://github.com/Gabri432/Sistemi_informativi/blob/master/capitolo_3b/conflitti.md)
 - [Risoluzione conflitti](https://github.com/Gabri432/Sistemi_informativi/blob/master/capitolo_3b/risoluzione_conflitti.md)
 
-#### 4) Sistemi ERP e CRM (da definire)
+#### 4) Sistemi ERP e CRM
+- [ERP](https://github.com/Gabri432/Sistemi_informativi/blob/master/capitolo_4/erp.md)
+- [CRM](https://github.com/Gabri432/Sistemi_informativi/blob/master/capitolo_4/crm.md)
 #### 5) Big data e Data Lakes (da definire)
 
 ## Fonti
