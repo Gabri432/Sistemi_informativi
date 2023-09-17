@@ -3,3 +3,5 @@
 - Altrimenti si avvantaggiano gli schemi ritenuti centrali alla struttura del DM.
 - Alcune delle soluzioni sono la **disambiguazione**, **scelta di un termine principale** (terminologici), **regole di conversione**, **assegnazione a vincoli meno restrittivi** (strutturali).
 - Uso della **proprietà inter-schema** della costruzione dello schema globale, fusione degli schemi e verifica di leggibilità, minimalità, completezza.
+
+### [Vai al README](https://github.com/Gabri432/Sistemi_informativi)
