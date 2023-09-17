@@ -20,11 +20,17 @@ I capitoli, o le sezioni, indicati con "(da definire)" sono ancora incompleti e 
 - [Sistemi operazionali](https://github.com/Gabri432/Sistemi_informativi/blob/master/capitolo_2/sistemi_operazionali.md)
 - [Business Intelligence](https://github.com/Gabri432/Sistemi_informativi/blob/master/capitolo_2/business_intelligence.md)
 
-#### 3) Data Warehouse
+#### 3.a) Data Warehouse
 - [Cosa sono?](https://github.com/Gabri432/Sistemi_informativi/blob/master/capitolo_3/cosa_sono.md)
 - [Architetture Warehousing](https://github.com/Gabri432/Sistemi_informativi/blob/master/capitolo_3/architetture_warehousing.md)
 - [Modello Multidimensionale](https://github.com/Gabri432/Sistemi_informativi/blob/master/capitolo_3/modell_multidimensionale.md)
 - [Data Mining](https://github.com/Gabri432/Sistemi_informativi/blob/master/capitolo_3/data_mining.md)
+
+#### 3.b) Progettazione Data Warehouse (da definire)
+- Approccio top-down e bottom-up
+- Progettazione DM/DW
+- Conflitti
+- Risoluzione conflitti
 
 #### 4) Sistemi ERP e CRM (da definire)
 #### 5) Big data e Data Lakes (da definire)
