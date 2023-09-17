@@ -1,6 +1,6 @@
 ## Approccio top-down
 - Analizza i bisogni globali dell'intera azienda, pianifica, progetta e realizza il DW nella sua interezza.
-- Promette ottimi risultati poiché si basa su una visione globale dell'obiettivo, garantisce produzione un DW consistene e integrato.
+- Promette ottimi risultati poiché si basa su una visione globale dell'obiettivo, garantisce produzione un DW consistente e integrato.
 - Costi onerosi e tempi prolungati di realizzazione scoraggiano tale progetto.
 - La previsione a priori nel dettaglio delle esigenze delle diverse aree aziendali impegnate è pressoché impossibile.
 - Gli utenti non possono verificare l'utilità del progetto dato che non si prevede la consegna a breve termine di un prototipo, facendone calare l'interesse e la fiducia.
